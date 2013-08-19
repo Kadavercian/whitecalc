@@ -1,0 +1,11 @@
+C:\VSProjects\whiteCalc\bin\Release\whiteCalc.exe
+C:\VSProjects\whiteCalc\bin\Release\whiteCalc.pdb
+C:\VSProjects\whiteCalc\bin\Release\whiteMath.dll
+C:\VSProjects\whiteCalc\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\VSProjects\whiteCalc\bin\Release\office.dll
+C:\VSProjects\whiteCalc\bin\Release\whiteMath.pdb
+C:\VSProjects\whiteCalc\bin\Release\whiteMath.xml
+C:\VSProjects\whiteCalc\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\VSProjects\whiteCalc\bin\Release\office.xml
+C:\VSProjects\whiteCalc\obj\x86\Release\whiteCalc.exe
+C:\VSProjects\whiteCalc\obj\x86\Release\whiteCalc.pdb

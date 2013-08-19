@@ -2,20 +2,20 @@ whitecalc
 =========
 
 Description
-===
+---
 
 A whiteMath-based (URL: https://github.com/wh1t3cAt1k/whiteMath) command-line calculator.
 Works under Microsoft Windows with .NET Framework 4.0. 
 
 Installation
-===
+---
 
 Copy the contents of bin/Release directory into any directory you like (e.g. c:\whitecalc).
 Preferably (for fast execution under cmd) add this new directory to your PATH variable.
 (wondering how to do it? google it. http://goo.gl/Jw2uWP)
 
 Usage
-===
+---
 
 Syntax: whitecalc "[function] [<< argumentValue]".
 

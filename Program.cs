@@ -55,10 +55,12 @@ namespace whiteCalc
             if (indexOfArgumentArea >= 0)
                 arg = whiteMath.General.OtherExtensions.SubstringToIndex(arg, 0, indexOfArgumentArea);
 
-            AnalyticFunction fun = new AnalyticFunction("f(x)=" + arg);
+            AnalyticFunction fun = null;
 
             try
             {
+                fun = new AnalyticFunction("f(x)=" + arg);
+
                 double functionValue = fun[argumentValue];
 
                 Console.WriteLine("--| x = {0} |-| res = {1} |--", argumentValue, functionValue);
@@ -68,7 +70,7 @@ namespace whiteCalc
             }
             catch (Exception exception)
             {
-                Console.WriteLine(string.Format("ERROR: Could not calculate the value of {0}: {1}", fun.ToString(), exception.Message));
+                Console.WriteLine(string.Format("ERROR: Could not calculate the value of {0}: {1}", "f(x)=" + arg, exception.Message));
             }
 
             return;

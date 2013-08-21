@@ -9,3 +9,4 @@ C:\VSProjects\whiteCalc\bin\Release\Microsoft.Office.Interop.Excel.xml
 C:\VSProjects\whiteCalc\bin\Release\office.xml
 C:\VSProjects\whiteCalc\obj\x86\Release\whiteCalc.exe
 C:\VSProjects\whiteCalc\obj\x86\Release\whiteCalc.pdb
+C:\VSProjects\whiteCalc\obj\x86\Release\whiteCalc.csprojResolveAssemblyReference.cache
